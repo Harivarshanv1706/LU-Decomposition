@@ -9,9 +9,12 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 1. Start
-2. 
-3. 
-4. 
+2. Import required libraries
+3. Input the matrix,Perform LU decomposition
+4. Call lu(A) to decompose the matrix A
+
+Store the results in matrices P, L, and U
+5. End
 
 ## Program:
 (i) To find the L and U matrix
